@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TestProject</string>
+    <string name="label_todo_list">TODO LIST</string>
+    <string name="label_loading">Loading</string>
 </resources>
